@@ -65,3 +65,5 @@ java BankingSystem
 ## Note
 
 This is a beginner-level Java console application. Account information and transaction history are stored in memory and are reset when the program terminates.
+Author
+Palak Rupchandani
